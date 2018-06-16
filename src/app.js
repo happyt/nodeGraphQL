@@ -14,7 +14,7 @@ app.use('/graphql', graphqlHTTP({
 }));
 app.get('/', (req, res) => {
     return res.json({
-        msg: 'hello graphql'
+        msg: 'GraphQL demo, browse to /graphql'
     })
 })
 
