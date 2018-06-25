@@ -1,6 +1,8 @@
 ## Building APIs with GraphQL, NodeJs and Mongoose
 ### Setup
 from egghead https://egghead.io/lessons/graphql-create-express-server-in-node-js
+Using a local mongoDB database
+Running 3 shells, mongod, mongo, this app
 
 ```
 npm install
